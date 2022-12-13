@@ -1,0 +1,135 @@
+# HASHI bridge supported Tokens ID addresses
+
+{% hint style="warning" %}
+Deprecated. Need the same contents for trustless EVM bridge with dynamic values displayed. Also may be placed to [asset-registration.md](asset-registration.md "mention")
+{% endhint %}
+
+On SORA Network each token has an unique identifier, the ID Address. It works similar to Ethereum, where each token has a contract which starts with 0x...
+
+Note that every token which has a **grey icon** is not official, and you should be very careful about them.
+
+**Incompatible tokens: OMG, USDT**&#x20;
+
+**Disabled tokens: BAT, HT, CHSB and cUSDC**
+
+Furthermore, not all erc20 are supported yet, **send through the bridge only the tokens below.**
+
+**Before making a trade on Polkaswap, be sure that you've selected the original tokens with icons:**
+
+**PSWAP**: 0x0200050000000000000000000000000000000000000000000000000000000000
+
+**DAI**: 0x0200060000000000000000000000000000000000000000000000000000000000
+
+**ETH**: 0x0200070000000000000000000000000000000000000000000000000000000000&#x20;
+
+**VAL:** 0x0200040000000000000000000000000000000000000000000000000000000000
+
+**XOR:** 0x0200000000000000000000000000000000000000000000000000000000000000
+
+**CERES**: 0x008bcfd2387d3fc453333557eecb0efe59fcba128769b2feefdd306e98e66440
+
+**LINK**: 0x008484148dcf23d1b48908393e7a00d5fdc3bf81029a73eeca62a15ebfb1205a
+
+**UNI**: 0x009be848df92a400da2f217256c88d1a9b1a0304f9b3e90991a67418e1d3b08c
+
+**BUSD** (Ethereum Network): 0x00567d096a736f33bf78cad7b01e33463923b9c933ee13ab7e3fb7b23f5f953a
+
+**TUSD**: 0x006d336effe921106f7817e133686bbc4258a4e0d6fed3a9294d8a8b27312cee
+
+**UST**: 0x00f8cfb462a824f37dcea67caae0d7e2f73ed8371e706ea8b1e1a7b0c357d5d4
+
+**USDC**: 0x00ef6658f79d8b560f77b7b20a5d7822f5bc22539c7b4056128258e5829da517
+
+**HUSD**: 0x008ba21aa988b21e86d5b25ed9ea690d28a6ba6c5ba9037424c215fd5b193c32
+
+**RARE**: 0x0047e323378d23116261954e67836f350c45625124bbadb35404d9109026feb5
+
+**FOTO**: 0x008efe4328cba1012cb9ad97943f09cadfbeea5e692871cd2649f0bf4e718088
+
+**FANS**: 0x00b0afb0e0762b24252dd7457dc6e3bfccfdc7bac35ad81abef31fa9944815f5
+
+**PDEX**: 0x008a99c642c508f4f718598f32fa9ecbeea854e335312fecdbd298b92de26e21
+
+**AAVE**: 0x0091bd8d8295b25cab5a7b8b0e44498e678cfc15d872ede3215f7d4c7635ba36
+
+**REN**: 0x00e8a7823b8207e4cab2e46cd10b54d1be6b82c284037b6ee76afd52c0dceba6
+
+**PAX**: 0x004249314d526b706a2e71e76a6d81911e4e6d7fb6480051d879fdb8ef1dccc9
+
+**AKRO**: 0x007348eb8f0f3cec730fbf5eec1b6a842c54d1df8bed75a9df084d5ee013e814
+
+**MATIC**: 0x009134d5c7b7fda8863985531f456f89bef5fbd76684a8acdb737b3e451d0877
+
+**PHA**: 0x0033271716eec64234a5324506c4558de27b7c23c42f3e3b74801f98bdfeebf7
+
+**OCEAN**: 0x002ca40397c794e25dba18cf807910eeb69eb8e81b3f07bb54f7c5d1d8ab76b9
+
+**WBTC**: 0x002c48630dcb8c75cc36162cbdbc8ff27b843973b951ba9b6e260f869d45bcdc
+
+**RENBTC**: 0x00438aac3a91cc6cee0c8d2f14e4bf7ec4512ca708b180cc0fda47b0eb1ad538
+
+**REEF**: 0x0004d3168f737e96b66b72fbb1949a2a23d4ef87182d1e8bf64096f1bb348e0b
+
+**CRO**: 0x004d9058620eb7aa4ea243dc6cefc4b76c0cf7ad941246066142c871b376bb7e
+
+**AGI**: 0x005e152271f8816d76221c7a0b5c6cafcb54fdfb6954dd8812f0158bfeac900d
+
+**XRT**: 0x0083d5cbb4b90163b6a003e8f771eb7c0e2b706892cd0cbadb03f55cb9e06919
+
+**STAKE** (xDAI): 0x005476064ff01a847b1c565ce577ad37105c3cd2a2e755da908b87f7eeb4423b
+
+**DIA**: 0x001f7a13792061236adfc93fa3aa8bad1dc8a8e8f889432b3d8d416b986f2c43
+
+**RLC**: 0x008294f7b08f568a661de2b248c34fc574e7e0012a12ef7959eb1a5c6b349e09
+
+**XFUND**: 0x007e908e399cc73f3dad9f02f9c5c83a7adcd07e78dd91676ff3c002e245d8e9
+
+**FIS** (stafi): 0x00e6df883c9844e34b354b840e3a527f5fc6bfc937138c67908b1c8f2931f3e9
+
+**CREAM**: 0x00521ad5caeadc2e3e04be4d4ebb0b7c8c9b71ba657c2362a3953490ebc81410
+
+**IDEX**: 0x006cfd2fb06c15cd2c464d1830c0d247e32f36f34233a6a266d6581ea5677582
+
+**UMA:** 0x00e40bcd6ee5363d3abbb4603273aa2f6bb89e29323729e884a8ef9c991fe73e
+
+**MANA:** 0x00449af28b82575d6ac0e8c6d20e095be0917e1b0eaa63962a1dc2c6b81c2b0d
+
+**YFI**: 0x002676c3edea5b08bc0f9b6809a91aa313b7da35e28b190222e9dc032bf1e662
+
+**COMP**: 0x00dbd45af9f2ea406746f9025110297469e9d29efc60df8d88efb9b0179d6c2c
+
+**FTT**: 0x00019977e20516b9f7112cd8cfef1a5be2e5344d2ef1aa5bc92bbb503e81146e
+
+**OKB**: 0x0080edc40a944d29562b2dea2de42ed27b9047d16eeea27c5bc1b2e02786abe9
+
+**NEXO:** 0x003005b2417b5046455e73f7fc39779a013f1a33b4518bcd83a790900dca49ff
+
+**SUSHI:** 0x0078f4e6c5113b3d8c954dff62ece8fc36a8411f86f1cbb48a52527e22e73be2
+
+**CRV:** 0x002ead91a2de57b8855b53d4a62c25277073fd7f65f7e5e79f4936ed747fcad0
+
+**GRT:** 0x00d1fb79bbd1005a678fbf2de9256b3afe260e8eead49bb07bd3a566f9fe8355
+
+**LEO:** 0x009e199267a6a2c8ae075bb8d4c40ee8d05c1b769085ee59ce98e50c2b2d8756
+
+**MKR:** 0x00ec184ef0b4bd955db05eea5a8489ae72888ab6e63682a15beca1cd39344c8f
+
+**HOT:** 0x004baaeb9bf0d5210a51fab72d10c84a34f53bea4e0e102d794d531a45ec50f9
+
+**KOBE:** 0x008146909618facff9642fc591925ef91f10263c250cbae5db504b8b0955435a
+
+**TEL:** 0x008f925e3e422218604fac1cc2f06f3ef9c1e244e0d2a9a823e5bd8ce9778434
+
+**KNC:** 0x001da2678bc8b0ff27d17eb4c11cc8e0def6c16a141d93253f3aa51276aa7b45
+
+**OGN:** 0x0064c02f602195e298780323c79a0eb5b4fd0ffcad68d440a7ca7725bc79d912
+
+**ROOK:** 0x00f58df67a15fe6c45d122767251c8660f33a2c544b5e2b70084c465b7cf84e7
+
+****
+
+
+
+****\
+****\
+****
