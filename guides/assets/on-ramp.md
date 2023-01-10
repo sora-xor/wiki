@@ -10,7 +10,7 @@ Before getting started, make sure that:
 
 
 
-To get started, click the **BUY TOKENS** button to open the MoonPay purchase menu
+To get started, click the **BUY TOKENS** button to open the [MoonPay](https://www.moonpay.com/) purchase menu
 
 ![](../../.gitbook/assets/foto1.png)
 
@@ -20,14 +20,14 @@ Select the **Currency** and **Amount**, then click **Continue.**
 
 ![](<../../.gitbook/assets/foto2 (1).png>)
 
-On the next screen, the Metamask extension will pop up requesting you to select an account (_if you have multiple Metamask wallets_). Once you confirm, MoonPay will automatically connect your Metamask account address. If everything is ok, click **Continue**.
+On the next screen, the Metamask extension will pop up requesting you to select an account (_if you have multiple Metamask wallets_). Once you confirm, [MoonPay](https://www.moonpay.com/) will automatically connect your Metamask account address. If everything is ok, click **Continue**.
 
 If the address is not the one you would like to be using, change the account in Metamask to the one you wish to be using.\
 
 
 ![](../../.gitbook/assets/foto3.png)
 
-Go through the **KYC** process. **This will only be done once**, every other time you will only have to enter the email address you submitted for verification. If you have already used MoonPay before, enter the email address you used.
+Go through the **KYC** process. **This will only be done once**, every other time you will only have to enter the email address you submitted for verification. If you have already used [MoonPay](https://www.moonpay.com/) before, enter the email address you used.
 
 After KYC / account verification it’s time to make the payment. Enter your credit card information, confirm that you agree with the **Terms of Use** and click **Buy now.**
 
@@ -43,7 +43,7 @@ Visa 4000 0209 5159 5032 12/2022 1
 
 ![](../../.gitbook/assets/foto4.png)
 
-Processing may take a few minutes _or a few hours._ You may close the window (and browser) safely at any time now and come back to it later. You will also be notified via email by MoonPay once the transaction is completed or if there are any issues.
+Processing may take a few minutes _or a few hours._ You may close the window (and browser) safely at any time now and come back to it later. You will also be notified via email by [MoonPay](https://www.moonpay.com/) once the transaction is completed or if there are any issues.
 
 ![](../../.gitbook/assets/foto5.png)
 
