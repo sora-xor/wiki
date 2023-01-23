@@ -45,10 +45,9 @@ VAL is vested per day to each XOR from the snapshot, from a remaining portion of
 
 **Rewards can't be claimed instantly.** Vesting speed depends on the amount of PSWAP burned from Polkaswap usage fees. PSWAP are vested with **Strategic Bonus Vesting**, where the vested amount is a percentage of the daily amount of PSWAP burned in transaction fees, as shown in the figure below.
 
-As you can see, at launch the % of burned PSWAP which is allocated as Strategic Bonus Vesting is 0%, and it increases linearly in 5 years to 55%, and then it will stay constant. The other burned PSWAP is reserved for the SORA Parliament (10%) and as a reward for Liquidity Providers. This reward is similar to the one you get from providing liquidity on Uniswap, namely the 0.3% on every trade.\
+As you can see, at launch the % of burned PSWAP which is allocated as Strategic Bonus Vesting is 0%, and it increases linearly in 5 years to 55%, and then it will stay constant. The other burned PSWAP is reserved for the SORA Parliament (10%) and as a reward for Liquidity Providers. This reward is similar to the one you get from providing liquidity on Uniswap, namely the 0.3% on every trade.
 
-
-![](<../.gitbook/assets/image (2).png>)
+<figure><img src="../.gitbook/assets/strategic-bonus-vesting-updated (1).png" alt=""><figcaption></figcaption></figure>
 
 An example that can be useful to clarify:
 
