@@ -89,7 +89,7 @@ Access [https://etherscan.io/address/0x1485e9852ac841b52ed44d573036429504f4f602#
 
 **Step 5.** After your hash is found, use the `getApprovedRequests` RPC to get the approvals.
 
-**Step 6.** Go to [https://etherscan.io/address/0x1485e9852ac841b52ed44d573036429504f4f602#writeContract](https://etherscan.io/address/0x1485e9852ac841b52ed44d573036429504f4f602#writeContract) and call `addEthNativeToken` with data from the previous step. Note, that `v` parameters in signatures should be increased by `27`. That is if you see `v: 0` and `v: 1`, these parameters should be passed as `[27, 28]`.
+**Step 6.** Go to [https://etherscan.io/address/0x313416870a4da6f12505a550b67bb73c8e21d5d3#writeContract](https://etherscan.io/address/0x313416870a4da6f12505a550b67bb73c8e21d5d3#writeContract) and call `addEthNativeToken` with data from the previous step. Note, that `v` parameters in signatures should be increased by `27`. That is if you see `v: 0` and `v: 1`, these parameters should be passed as `[27, 28]`.
 
 <figure><img src="../../../../.gitbook/assets/1c74b050-8f76-4ec7-873e-a20ed18c9f4b.png" alt=""><figcaption></figcaption></figure>
 
