@@ -16,8 +16,8 @@ description: In the SORA ecosystem there are XOR and VAL tokens.
 
 **XOR** token supply
 
-* XOR supply was capped at 350,000 XOR until SORA v2 network launch. SORA v2 network was launched on April 2021
-* XOR supply is elastically managed by a [token bonding curve](https://wiki.sora.org/token-bonding-curve) smart contract with buy and sell price functions. This means that as the token supply increases, the price also increases, and vice versa. The price is regulated by the bonding curve, so no extreme fluctuations in the price will be exhibited, but rather a smooth growth or decline
+* The XOR supply was 350,000 XOR until April 2021, when the SORA v2 network launched
+* The XOR supply is elastically managed by a [token bonding curve](https://wiki.sora.org/token-bonding-curve) smart contract with buy and sell price functions. This means that as the token supply increases, the price also increases, and vice versa. The price is regulated by the bonding curve, so no extreme fluctuations in the price will be exhibited, but rather a smooth growth or decline
 
 **XOR** distribution
 
@@ -52,12 +52,12 @@ Additional addresses have been added corresponding to Polkaswap reward accounts.
 
 **VAL** token supply
 
-* 100 million initial total supply and decreasing [with tokens burned](https://medium.com/@sora.xor/sora-validator-rewards-419320e22df8)
+* 100 million initial total supply and decreasing [with tokens burned](https://medium.com/@sora.xor/sora-validator-rewards-419320e22df8) (current supply [here](https://sora-qty.info))
 * VAL is a free-floating token where the price is decided by the market
 * Current VAL circulating supply can be checked [here](https://mof.sora.org/qty/val)
 
-**VAL** token will distributed to 3 groups approximately equally, in 3 stages:
+**VAL** token was distributed to 3 groups approximately equally, in 3 stages:
 
-* Former v1 XOR holders (within Q4 2020)
+* Former v1 XOR holders (in Q4 2020)
 * ERC-20 XOR holders as an airdrop (vested over time)
-* The upcoming SORA Parliament
+* An [investment fund for the SORA Ecosystem](https://sora-xor.medium.com/sora-parliament-funds-management-referendum-9f7db3c2d7cc)
