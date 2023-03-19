@@ -60,4 +60,4 @@ Additional addresses have been added corresponding to Polkaswap reward accounts.
 
 * Former v1 XOR holders (in Q4 2020)
 * ERC-20 XOR holders as an airdrop (vested over time)
-* An investment vehicle for the SORA ecosystem (set up as a Trust which invests for the SORA ecosystem)
+* An investment vehicle for the SORA ecosystem
