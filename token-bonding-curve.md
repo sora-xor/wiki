@@ -1,6 +1,6 @@
 # Token Bonding Curve
 
-### Introduction
+### ![](.gitbook/assets/xor-supply-correct.png)Introduction
 
 The [token bonding curve](https://medium.com/coinmonks/token-bonding-curves-explained-7a9332198e0e) (TBC) manages the supply of tokens in a rational way, without the involvement of humans, to create a system that avoids the boom-bust problems of traditional economies, and the deflationary economics of many cryptocurrencies.
 
@@ -12,7 +12,7 @@ Put simply, **the token bonding curve is essentially an infinitely liquid, decen
 
 Furthermore, because the token bonding curve’s pricing functions slope upwards, the **price increases with the token supply.** Keep in mind that with a token bonding curve, **XOR price and supply are correlated**, and they move accordingly.
 
-![Price tends to increase when supply rises](<.gitbook/assets/tbc (3).png>)
+<figure><img src=".gitbook/assets/xor-supply-correct (1).png" alt=""><figcaption><p>Price will increase when supply rises and vice versa</p></figcaption></figure>
 
 Another important implication of this mechanism is that XOR price on the secondary market (Polkaswap, Uniswap, CEXs...) tends to be limited to a certain price range (illustrated as the red triangle in the diagram). In fact, if a user trades XOR outside that range, it creates an **arbitrage opportunity** to buy/sell XOR below/above the token bonding curves prices: **XOR volatility is thus reduced.**
 
