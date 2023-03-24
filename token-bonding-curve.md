@@ -1,6 +1,6 @@
 # Token Bonding Curve
 
-### ![](.gitbook/assets/xor-supply-correct.png)Introduction
+### Introduction
 
 The [token bonding curve](https://medium.com/coinmonks/token-bonding-curves-explained-7a9332198e0e) (TBC) manages the supply of tokens in a rational way, without the involvement of humans, to create a system that avoids the boom-bust problems of traditional economies, and the deflationary economics of many cryptocurrencies.
 
