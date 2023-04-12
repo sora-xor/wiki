@@ -11,7 +11,7 @@ Adding a token to the SORA HASHI bridge involves several steps;
 1. [#registering-a-token-within-the-sora-blockchain](adding-a-token-to-the-hashi-bridge.md#registering-a-token-within-the-sora-blockchain "mention")
 2. [#registering-a-sora-asset-on-the-bridge](adding-a-token-to-the-hashi-bridge.md#registering-a-sora-asset-on-the-bridge "mention")
 3. [#registration-of-an-erc-20-token-in-ethereum-and-its-mapping-with-a-sora-asset](adding-a-token-to-the-hashi-bridge.md#registration-of-an-erc-20-token-in-ethereum-and-its-mapping-with-a-sora-asset "mention")
-4. [#optional-adding-a-wallet-to-a-whitelist](adding-a-token-to-the-hashi-bridge.md#optional-adding-a-wallet-to-a-whitelist "mention")
+4. [#optional-adding-a-token-to-a-whitelist](adding-a-token-to-the-hashi-bridge.md#optional-adding-a-token-to-a-whitelist "mention")
 
 ## Registering a token within the SORA blockchain
 
@@ -93,9 +93,9 @@ Access [https://etherscan.io/address/0x1485e9852ac841b52ed44d573036429504f4f602#
 
 <figure><img src="../../../../.gitbook/assets/1c74b050-8f76-4ec7-873e-a20ed18c9f4b.png" alt=""><figcaption></figcaption></figure>
 
-## (Optional) Adding a wallet to a whitelist
+## (Optional) Adding a token to a whitelist
 
-&#x20;If you want to be able to use the bridge functionality in Polkaswap, you need to add it to the whitelist. In order to move your token to Ethereum, it needs to be **whitelisted**. You can whitelist your token by following the instructions **** on GitHub.
+&#x20;If you want to be able to bridge your token in Polkaswap, and in order to move your token to Ethereum, it needs to be **whitelisted**. You can whitelist your token by following the instructions on GitHub.
 
 {% embed url="https://github.com/sora-xor/polkaswap-token-whitelist-config" %}
 
