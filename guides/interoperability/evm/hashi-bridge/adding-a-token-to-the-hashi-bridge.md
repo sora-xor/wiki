@@ -11,7 +11,9 @@ Adding a token to the SORA HASHI bridge involves several steps;
 1. [#registering-a-token-within-the-sora-blockchain](adding-a-token-to-the-hashi-bridge.md#registering-a-token-within-the-sora-blockchain "mention")
 2. [#registering-a-sora-asset-on-the-bridge](adding-a-token-to-the-hashi-bridge.md#registering-a-sora-asset-on-the-bridge "mention")
 3. [#registration-of-an-erc-20-token-in-ethereum-and-its-mapping-with-a-sora-asset](adding-a-token-to-the-hashi-bridge.md#registration-of-an-erc-20-token-in-ethereum-and-its-mapping-with-a-sora-asset "mention")
-4. [#registering-a-sora-asset-on-the-bridge](adding-a-token-to-the-hashi-bridge.md#registering-a-sora-asset-on-the-bridge "mention")
+4. [#adding-a-token-to-a-whitelist](adding-a-token-to-the-hashi-bridge.md#adding-a-token-to-a-whitelist "mention")
+
+
 
 ## Registering a token within the SORA blockchain
 
