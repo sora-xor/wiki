@@ -63,7 +63,7 @@ Yes, there is an incentive program that will reward liquidity providers on Polka
 
 The Polkaswap protocol smart contract, designed with security as its top priority, has been [audited](https://sora.org/audit). However, we cannot guarantee that bugs will not be found in the future. Please do your own research, and always be careful and perform due diligence when trading on Polkaswap. The biggest risk when providing liquidity on Polkaswap is known as **impermanent loss.**
 
-Impermanent loss happens when the prices of the token that was deposited into the pool has changed from the price it entered at. **** The bigger this difference is between the entry price and the current price, the more exposure liquidity providers are to the risks of impermanent loss. Let's see an example on how it works:
+Impermanent loss happens when the prices of the token that was deposited into the pool has changed from the price it entered at. The bigger this difference is between the entry price and the current price, the more exposure liquidity providers are to the risks of impermanent loss. Let's see an example on how it works:
 
 You're providing liquidity to XOR-DAI pair. At the time you enter the pool, 1 XOR = 100 DAI and so you provide to the pool 1 XOR and 100 DAI. Polkaswap requires that the two deposited assets maintain a 1:1 ratio. Now imagine that the total pool contains 10 XOR and 1000 DAI, which is worth $2000. This means you have a 10% share of the pool.
 

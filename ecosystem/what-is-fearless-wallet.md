@@ -12,7 +12,7 @@ In addition to sending and receiving KSM/DOT, the following features are also su
 
 **Staking.** Users will be able to nominate validators, bond tokens, and participate in democratic decision-making forums within the Kusama and Polkadot networks.
 
-**Crowdloans.** Loan KSM and (in the future) DOT to projects so they can win their parachain auctions. ****&#x20;
+**Crowdloans.** Loan KSM and (in the future) DOT to projects so they can win their parachain auctions.&#x20;
 
 **Buying KSM/DOT.** Using RAMP and Moonpay, you can buy KSM/DOT with your credit card in just a few easy steps!
 

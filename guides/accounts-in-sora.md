@@ -1,6 +1,7 @@
 # Account creation
 
 {% hint style="warning" %}
+\
 We recommend using the SORA testnet for practice exercises. Here are the Testnet links:
 
 1. [Polkaswap test application](https://test.polkaswap.io/)
@@ -25,41 +26,41 @@ Download [https://polkadot.js.org/extension/](https://polkadot.js.org/extension/
 
 Open the extension and confirm that you understand the disclaimer.
 
-![](<../.gitbook/assets/Untitled (1) (8).png>)
+![](<../.gitbook/assets/image (28).png>)
 
-Create the account. You should click on the `+` button
-
-![](<../.gitbook/assets/Untitled (2) (2).png>)
+Create the account. You should click on the `+` button\
+\
+![](<../.gitbook/assets/image (35).png>)
 
 You'll see the mnemonic. **Never share it with anyone** and don't use the same one as the screenshot (_this is just a demonstration, you will be assigned another_). **Keep this passphrase secure because it's the only way to restore your account.**
 
-![](<../.gitbook/assets/Untitled (3) (11).png>)
+![](<../.gitbook/assets/image (31).png>)
 
 Click the checkbox and move on to the next step.
 
-1. Enter an account name and password then proceed
+Enter an account name and password then proceed\
+\
+![](<../.gitbook/assets/image (30).png>)
 
-![](<../.gitbook/assets/Untitled (4) (4).png>)
+The new account is now created\
+\
+![](<../.gitbook/assets/image (27).png>)
 
-The new account is now created
+Now you should change the address format so that it begins with `cn`. Open Settings and select Displayed Address format. It should be SORA Network\
+\
+![](<../.gitbook/assets/image (33).png>)
 
-![](<../.gitbook/assets/Untitled (5) (11).png>)
-
-Now you should change the address format so that it begins with `cn`. Open Settings and select Displayed Address format. It should be SORA Network
-
-![](<../.gitbook/assets/Untitled (6).png>)
-
-Great job! Now you have an address with the `cn` prefix
-
-![](<../.gitbook/assets/Untitled (7) (2).png>)
+Great job! Now you have an address with the `cn` prefix\
+\
+![](<../.gitbook/assets/image (9).png>)
 
 ## Via polkadot.js apps UI
 
 Open [https://polkadot.js.org/apps/](https://polkadot.js.org/apps/) and then select SORA network. Use this [link](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fws.stage.sora2.soramitsu.co.jp#/explorer) for the testnet.
 
-If you've already installed the Polkadot browser plugin, it will request authorization to sync data. You can do it, as it will make account management easier.
-
-![](<../.gitbook/assets/Untitled (8).png>)
+If you've already installed the Polkadot browser plugin, it will request authorization to sync data. You can do it, as it will make account management easier.\
+\
+![](<../.gitbook/assets/image (2).png>)
 
 Open the [Accounts](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fws.stage.sora2.soramitsu.co.jp#/accounts) page
 
@@ -103,37 +104,35 @@ You can use these **testnet** applications to practice:
 
 When you install the application you'll be able to create an account.
 
-There are two options: **Create account** and **Import account.** For this exercise tap on **Create account.**
+There are two options: **Create account** and **Import account.** For this exercise tap on **Create account.**\
+\
+![](<../.gitbook/assets/image (5).png>)\
+\
+![](<../.gitbook/assets/image (17).png>)
 
-![](../.gitbook/assets/Screenshot\_20210914-093519\_Soralution.jpg)
 
-![](../.gitbook/assets/Screenshot\_20210914-093528\_Soralution.jpg)
 
-Then enter an account name. It may be any string. Then tap continue.
-
-![](../.gitbook/assets/Screenshot\_20210914-093542\_Soralution.jpg)
+Then enter an account name. It may be any string. Then tap continue.\
+\
+![](<../.gitbook/assets/image (7).png>)
 
 The screen with the passphrase will be shown.
 
 _**Save the passphrase in a secret place or remember it. The passphrase is the only way to recover the account in case of changing the mobile phone, logging out of the application, or other emergency cases.**_
 
-You can confirm the mnemonic or skip the process. Just tap the words at the top of the screen in the right order. The tapped word will be shown on the bottom of the screen.
+You can confirm the mnemonic or skip the process. Just tap the words at the top of the screen in the right order. The tapped word will be shown on the bottom of the screen.\
+\
+![](<../.gitbook/assets/image (12).png>)
 
-![](<../.gitbook/assets/Untitled (15).png>)
+After that, input and confirm a PIN code of your choice. \
+\
+![](<../.gitbook/assets/image (16).png>)
 
-![](<../.gitbook/assets/Untitled (16) (1).png>)
+You can also allow the application to use biometry auth. And finally, you'll get access to the wallet.\
+\
+![](<../.gitbook/assets/image (15).png>)\
+\
 
-After that, input and confirm a PIN code of your choice.&#x20;
-
-![](../.gitbook/assets/Screenshot\_20210914-093632\_Soralution.jpg)
-
-![](<../.gitbook/assets/Screenshot\_20210914-093625\_Soralution (1).jpg>)
-
-You can also allow the application to use biometry auth. And finally, you'll get access to the wallet.
-
-![](../.gitbook/assets/Screenshot\_20210914-093653\_Soralution.jpg)
-
-![](../.gitbook/assets/Screenshot\_20210914-093703\_Soralution.jpg)
 
 #### Restoring account from mnemonic in different applications
 
@@ -143,33 +142,31 @@ For example, my passphrase is
 
 `chicken worth gaze device proof frost adjust toe elite obvious rapid club`
 
-You can restore the account in the Polkadot browser plugin. Click on ➕ sign and click on **Import account from pre-existing seed.** Then enter the passphrase and click **Next.**
+You can restore the account in the Polkadot browser plugin. Click on ➕ sign and click on **Import account from pre-existing seed.** Then enter the passphrase and click **Next.**\
+\
+![](<../.gitbook/assets/image (4).png>)\
+\
+![](<../.gitbook/assets/image (14).png>)
 
-![](<../.gitbook/assets/Untitled (17) (2).png>)
-
-![](<../.gitbook/assets/Untitled (18) (1).png>)
-
-Then enter the account name and set up a password and proceed. Great, you've just restored your account!
-
-![](<../.gitbook/assets/Untitled (19) (1).png>)
+Then enter the account name and set up a password and proceed. Great, you've just restored your account!\
+\
+![](<../.gitbook/assets/image (6).png>)
 
 ![](<../.gitbook/assets/Untitled (20) (2).png>)
 
-The process is the same for the mobile application. Open the mobile application and tap on **Import account.** Enter the account name and passphrase.
+The process is the same for the mobile application. Open the mobile application and tap on **Import account.** Enter the account name and passphrase.\
+\
+![](<../.gitbook/assets/image (13).png>)\
+\
+![](<../.gitbook/assets/image (10).png>)
 
-![](../.gitbook/assets/Screenshot\_20210914-100351\_Soralution.jpg)
+Then set up and confirm a PIN code. \
+\
+![](../.gitbook/assets/image.png)
 
-![](../.gitbook/assets/Screenshot\_20210914-100535\_Soralution.jpg)
-
-Then set up and confirm a PIN code.&#x20;
-
-![](../.gitbook/assets/Screenshot\_20210914-100545\_Soralution.jpg)
-
-![](../.gitbook/assets/Screenshot\_20210914-100551\_Soralution.jpg)
-
-After that, you'll get access to the account.
-
-![](../.gitbook/assets/Screenshot\_20210914-100600\_Soralution.jpg)
+After that, you'll get access to the account.\
+\
+![](<../.gitbook/assets/image (8).png>)
 
 #### Converting the address format
 

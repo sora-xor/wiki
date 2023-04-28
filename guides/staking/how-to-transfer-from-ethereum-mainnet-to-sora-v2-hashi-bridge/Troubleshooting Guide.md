@@ -20,12 +20,12 @@ If the problem persists, follow [this procedure to fix your transaction](https:/
 
 ### Additional Information
 
-It is possible that the token you are looking for is has not been added to your Polkaswap account. Navigate to the "**Account"** section, **** then click "**Add Token**" and select the desired token.
+It is possible that the token you are looking for is has not been added to your Polkaswap account. Navigate to the "**Account"** section, then click "**Add Token**" and select the desired token.
 
-When bridging tokens, sometimes the transaction appears as **"Failed"** but it has in fact succeded. Navigate to your [**Polkaswap Wallet**](https://polkaswap.io/#/wallet), refresh the page, navigate to the "**Account"** section, **** then click "**Add Token**" and select the desired token.
+When bridging tokens, sometimes the transaction appears as **"Failed"** but it has in fact succeded. Navigate to your [**Polkaswap Wallet**](https://polkaswap.io/#/wallet), refresh the page, navigate to the "**Account"** section, then click "**Add Token**" and select the desired token.
 
 
 
-**You can find the list of tokens supported by the bridge** [**here**](https://wiki.sora.org/polkaswap/tokens-id-addresses)****
+**You can find the list of tokens supported by the bridge** [**here**](https://wiki.sora.org/polkaswap/tokens-id-addresses)
 
 **If this troubleshooting guide did not solve your issue, please join the** [**SORA Happiness chat**](https://t.me/SORAhappiness) **where the community will help you find a solution.**

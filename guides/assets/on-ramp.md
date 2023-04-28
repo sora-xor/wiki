@@ -1,12 +1,12 @@
 # On-ramp
 
-****
+
 
 Before getting started, make sure that:
 
 * [**Metamask**](https://metamask.io/download.html) is installed in your browser with the Ethereum account that you wish to be using for MoonPay ready and connected, as tokens will be sent first to Ethereum, then to SORA using the HASHI bridge
 * You have enough ETH for the [**HASHI bridge**](https://polkaswap.io/#/bridge) transaction fees on the Ethereum network side
-* You are aware of [**MoonPay account limits and the KYC process**](https://support.moonpay.com/hc/en-gb/articles/4407710995217-What-are-your-account-limits-)****
+* You are aware of [**MoonPay account limits and the KYC process**](https://support.moonpay.com/hc/en-gb/articles/4407710995217-What-are-your-account-limits-)
 
 
 
@@ -31,7 +31,7 @@ Go through the **KYC** process. **This will only be done once**, every other tim
 
 After KYC / account verification it’s time to make the payment. Enter your credit card information, confirm that you agree with the **Terms of Use** and click **Buy now.**
 
-****
+
 
 💡 If you're practicing on the testnet ([test.polkaswap.io](http://test.polkaswap.io)) use the following credit cards:&#x20;
 
@@ -61,7 +61,7 @@ Click **START BRIDGE** to move the tokens from Ethereum to SORA. Alternatively, 
 
 ![](../../.gitbook/assets/foto8.png)
 
-Click **PURCHASE HISTORY** to review your transaction. **** You can click and view each transaction in detail, new and old, as well as start the bridge for any of the transactions that are ready and waiting.
+Click **PURCHASE HISTORY** to review your transaction. You can click and view each transaction in detail, new and old, as well as start the bridge for any of the transactions that are ready and waiting.
 
 ![](../../.gitbook/assets/foto9.png)
 

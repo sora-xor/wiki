@@ -1,4 +1,4 @@
-# Staking
+# Nominating Validators
 
 Nominating validators is an important part of the SORA ecosystem as it helps to secure and decentralize the network. While you can nominate any validator, you should do research to make sure the validators you nominate are high quality and won't attack the network. If validators cause harm to the network, you will lose money as a nominator!
 
@@ -58,7 +58,7 @@ _**Disclaimer:** it is important to nominate trustworthy and reliable validators
 
 ![](<../.gitbook/assets/5 (1).png>)
 
-6\) __ When you have selected the validators, click on "Bond & Nominate", "Sign and Submit" and then sign the transaction with Polkadot.js extension, as shown in the pictures below
+6\) When you have selected the validators, click on "Bond & Nominate", "Sign and Submit" and then sign the transaction with Polkadot.js extension, as shown in the pictures below
 
 ![](../.gitbook/assets/6.png)
 

@@ -92,7 +92,7 @@ Uptime of 99.9%
 
 ## Rewards
 
-Your hard work won’t go without a reward. Those who run validator nodes or nominate will receive rewards in the form of **** [**VAL** ](https://medium.com/sora-xor/sora-validator-reward-token-val-c96a8afb8541)tokens.\
+Your hard work won’t go without a reward. Those who run validator nodes or nominate will receive rewards in the form of [**VAL** ](https://medium.com/sora-xor/sora-validator-reward-token-val-c96a8afb8541)tokens.\
 Rewards are not fixed but depend on the number of transactions on the SORA network and the usage of the [Token Bonding Curve](https://wiki.sora.org/token-bonding-curve).\
 In fact, half of all the fees on SORA Network and 1% of what is bought on the TBC is used to buy back VAL on Polkaswap and burn them. Then every day a percentage of the burned VAL is reminted and given to validators and nominators. This percentage was 90% at TGE and will linearly go down to flatline after 5 years.
 

@@ -112,7 +112,7 @@ Then, confirm the recipient address is correct one more time, confirm and sign t
 
 Although there is no NFT marketplace implementation on Polkaswap (_yet_), it is possible to pool NFT that you own, along with XOR. In order for a NFT to be pooled, it has to be **divisible**, so you can sell or buy only a fraction of it. Pooling NFT works like any other liquidity pool on Polkaswap, and [it also provides the same advantages](polkaswap/liquidity-in-polkaswap.md#theory). The steps to pool your NFT are as follows:
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 From the NFT preview within your wallet, click on the💧 icon.
 
@@ -140,13 +140,13 @@ Click on Custom to see your NFT and select the one you have decided to pool (_or
 
 Like before, select the token and the amount of liquidity (in this case 1 NFT and its equivalent in XOR), then click on Supply. You will receive a confirmation from your wallet and the token will be part of a liquidity pool. Alternatively, you can also add or remove liquidity from an NFT pair directly from the drop-down menu in the Polkaswap pool view;&#x20;
 
-![Adding or removing liquidity is possible from the Polkaswap Pool view](<../.gitbook/assets/image (8).png>)
+![Adding or removing liquidity is possible from the Polkaswap Pool view](<../.gitbook/assets/image (8) (1).png>)
 
 ### Swapping Tokens
 
 Finally, you can also swap an NFT for other tokens from the preview screen;
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (16) (1).png>)
 
 After clicking swap, you will be presented with the familiar [Polkaswap swapping interface](https://polkaswap.io/#/swap) that will allow you to trade your NFT for other tokens. Be aware that swapping your NFT like this will come at a significant price impact.
 
@@ -154,4 +154,4 @@ After clicking swap, you will be presented with the familiar [Polkaswap swapping
 
 Similar to the other functions, review the transaction summary and if you're happy with the outcome, click swap and sign the transaction on your Polkadot.js extension.&#x20;
 
-:warning:<mark style="color:red;">**Note: You can also buy NFT using the swap function, however, you need to add the desired NFT to your wallet as a custom asset. Swapping XOR or other tokens for NFT has a significant price impact. Be sure to understand these risks before trading NFT in Polkaswap.**</mark>:warning:<mark style="color:red;">****</mark>
+:warning:<mark style="color:red;">**Note: You can also buy NFT using the swap function, however, you need to add the desired NFT to your wallet as a custom asset. Swapping XOR or other tokens for NFT has a significant price impact. Be sure to understand these risks before trading NFT in Polkaswap.**</mark>:warning:

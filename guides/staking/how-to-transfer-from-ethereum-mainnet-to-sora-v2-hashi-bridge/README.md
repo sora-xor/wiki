@@ -10,7 +10,7 @@ Deprecated
 
 **Important**: it is recommended to put high fees on Metamask, which will reduce the chance of your transactions getting stuck
 
-****
+
 
 **NOTE: after the transfer you need to add the token (click "Add Token") you've just transferred in the "Account Section". You see a step-by-step guide at the end of this tutorial.**
 
@@ -21,7 +21,7 @@ In order to transfer tokens successfully, you need:
 
 **Procedure:**
 
-1\) **Go to** [**https://polkaswap.io/#/bridge**](https://polkaswap.io/#/bridge)****
+1\) **Go to** [**https://polkaswap.io/#/bridge**](https://polkaswap.io/#/bridge)
 
 Connect to the Ethereum Mainnet via your Metamask wallet by clicking the appropriate “Connect Account" button and following the flow recommended by the Metamask extension.
 
@@ -69,4 +69,3 @@ Type DAI (ETH, XOR, VAL assets depending on the token you move) and then select 
 
 ![](<../../../.gitbook/assets/Screenshot 2021-05-03 at 12.53.41.png>)
 
-****

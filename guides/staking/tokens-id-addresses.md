@@ -126,10 +126,9 @@ Furthermore, not all erc20 are supported yet, **send through the bridge only the
 
 **ROOK:** 0x00f58df67a15fe6c45d122767251c8660f33a2c544b5e2b70084c465b7cf84e7
 
-****
 
 
 
-****\
-****\
-****
+
+\
+\

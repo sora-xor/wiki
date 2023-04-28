@@ -33,7 +33,7 @@ Vesting of rewards will be done linearly, every day, starting from the update of
 
 
 
-****[**RMRK** ](https://www.rmrk.app/)will reward the top 100 crowdloan contributors with a special yumi and ya item that can be equipped onto one's [Kanaria ](https://kanaria.rmrk.app/)bird and give the owner platform bonuses all across the SORA Network.
+[**RMRK** ](https://www.rmrk.app/)will reward the top 100 crowdloan contributors with a special yumi and ya item that can be equipped onto one's [Kanaria ](https://kanaria.rmrk.app/)bird and give the owner platform bonuses all across the SORA Network.
 
 
 
@@ -45,7 +45,7 @@ Vesting of rewards will be done linearly, every day, starting from the update of
 
 
 
-****[**Bifrost** ](https://bifrost.finance/)will reveal their SORA crowdloan NFT soon! [Listen to the recent AMA with Makoto](https://twitter.com/i/spaces/1rmxPgDDpMZJN) for new insights about upcoming features of the SORA Network and the Bifrost x SORA crowdloan collaboration
+[**Bifrost** ](https://bifrost.finance/)will reveal their SORA crowdloan NFT soon! [Listen to the recent AMA with Makoto](https://twitter.com/i/spaces/1rmxPgDDpMZJN) for new insights about upcoming features of the SORA Network and the Bifrost x SORA crowdloan collaboration
 
 
 
