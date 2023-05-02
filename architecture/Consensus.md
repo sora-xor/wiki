@@ -9,7 +9,7 @@ description: >-
 **Tutorials:**&#x20;
 
 [How to stake](https://wiki.sora.org/guides/how-to-nominate-validators-stake-your-xor)\
-[How to claim staking rewards](Consensus.md#rewards)
+[How to claim staking rewards](../guides/staking/how-to-run-a-sora-mainnet-node.md#cb1c)
 
 ## Abstract
 
