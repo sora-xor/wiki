@@ -47,7 +47,7 @@ VAL is vested per day to each XOR from the snapshot, from a remaining portion of
 
 As you can see, at launch the % of burned PSWAP which is allocated as Strategic Bonus Vesting is 0%, and it increases linearly in 5 years to 55%, and then it will stay constant. The other burned PSWAP is reserved for the SORA Parliament (10%) and as a reward for Liquidity Providers. This reward is similar to the one you get from providing liquidity on Uniswap, namely the 0.3% on every trade.
 
-<figure><img src="../.gitbook/assets/strategic-bonus-vesting-updated (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/strategic-bonus-vesting-updated (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 An example that can be useful to clarify:
 

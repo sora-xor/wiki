@@ -1,12 +1,23 @@
 # Staking
 
-1. Navigate to the "Staking" page on Polkaswap.
-2. Click on the drop-down menu to select the preferred token you would like to stake.
-3. Review all the staking details regarding this token, including the APR, total liquidity locked, reward token, and fee.
+1.  Navigate to the "Staking" page on Polkaswap\
+
+
+    <figure><img src="../../.gitbook/assets/image (43).png" alt="" width="563"><figcaption></figcaption></figure>
+2. Click on the drop-down menu to select the preferred token you would like to stake
+3.  Review all the staking details regarding this token, including the APR, total liquidity locked, reward token, and fee\
+    \
+
+
+    <figure><img src="../../.gitbook/assets/image (47).png" alt="" width="301"><figcaption></figcaption></figure>
 4.  After reviewing the details, click on the "Start staking" button.
 
     Enter the amount of tokens you would like to stake or click "MAX" to stake all the available balance of the token.
-5. Review your stake amount, APR, and fee.
+5.  Review your stake amount, APR, and fee\
+    \
+
+
+    <figure><img src="../../.gitbook/assets/image (58).png" alt="" width="305"><figcaption></figcaption></figure>
 6. Click "Confirm" and sign the transaction in your wallet extension.
 
 Congrats, you have successfully staked your tokens on Polkaswap!
