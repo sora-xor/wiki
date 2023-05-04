@@ -46,7 +46,7 @@ In the practice section, we'll create a liquidity pool, provide liquidity to the
 
 #### Via Polkaswap
 
-Creating a pool is really easy. Just open Polkaswap, then open the Pool section.
+Creating a pool is really easy. Just open [Polkaswap](https://polkaswap.io), then open the [Pool section.](https://polkaswap.io/#/pool/)
 
 ![](<../../.gitbook/assets/Untitled (7) (5).png>)
 
@@ -84,7 +84,7 @@ If everything is ok, confirm and sign the transaction.
 
 ![](<../../.gitbook/assets/Untitled (4) (7).png>)
 
-Now you can see your pool share on the Pool page
+Now you can see your pool share on the [Pool page](https://polkaswap.io/#/pool/)
 
 ![](<../../.gitbook/assets/Untitled (5) (8).png>)
 
@@ -95,7 +95,7 @@ Now you can see your pool share on the Pool page
 There are 2 options where you can add liquidity:
 
 1. If you already have a share in a specific pool, you can click **Add liquidity** on the pool details
-2. If you'd like to provide liquidity to a pool where you don't have a share, then click **Add liquidity** on the Pool page
+2. If you'd like to provide liquidity to a pool where you don't have a share, then click **Add liquidity** on the [Pool page](https://polkaswap.io/#/pool/)
 
 ![](<../../.gitbook/assets/Untitled (6) (2).png>)
 
@@ -128,7 +128,7 @@ Now you can see your share of the pool on the Pool page
 
 #### Via Polkaswap
 
-Once you've provided the liquidity to the pool, you're also able to remove it (_get your tokens back_). Just open the Pool page, then open the pool details and click on **Remove liquidity.**
+Once you've provided the liquidity to the pool, you're also able to remove it (_get your tokens back_). Just open the [Pool page](https://polkaswap.io/#/pool/), then open the pool details and click on **Remove liquidity.**
 
 ![](<../../.gitbook/assets/Untitled (12) (3).png>)
 

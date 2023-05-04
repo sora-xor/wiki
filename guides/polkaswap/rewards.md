@@ -1,6 +1,6 @@
 # Rewards
 
-1.  Navigate to the "Rewards" tab on Polkaswap.io\
+1.  Navigate to the ["Rewards" tab ](https://polkaswap.io/#/rewards/)on Polkaswap\
 
 
     <figure><img src="../../.gitbook/assets/image (42).png" alt="" width="563"><figcaption></figcaption></figure>

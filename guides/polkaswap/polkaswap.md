@@ -29,7 +29,7 @@ In the practice section we'll Swap tokens. Providing and Removing the liquidity 
 
 Swapping tokens means exchanging from token A to token B. Polkaswap provides a user friendly interface for swapping tokens.
 
-Open the **Swap** page.
+Open the [**Swap** page](https://polkaswap.io/#/swap).
 
 ![](<../../.gitbook/assets/Untitled (23).png>)
 
@@ -37,7 +37,7 @@ Then select the source asset (the asset you'd like to sell) and the destination 
 
 ![](<../../.gitbook/assets/Untitled (1) (7).png>)
 
-The assets from you wallet will be listed by default.
+The assets from your wallet will be listed by default.
 
 ![](<../../.gitbook/assets/Untitled (2) (9).png>)
 
@@ -67,6 +67,6 @@ If you're ready to make a swap, click **Swap** then check the details carefully 
 
 ![](<../../.gitbook/assets/Untitled (6) (4).png>)
 
-Finally, you can find the transaction in the **Activity** tab on the **Account** screen.
+Finally, you can find the transaction in the **Activity** tab on the [**Account** screen](https://polkaswap.io/#/wallet).
 
 ![](<../../.gitbook/assets/Untitled (7) (1).png>)

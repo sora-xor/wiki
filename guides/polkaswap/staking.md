@@ -1,6 +1,6 @@
 # Staking
 
-1.  Navigate to the "Staking" page on Polkaswap\
+1.  Navigate to the ["Staking" page](https://polkaswap.io/#/staking/demeter/) on Polkaswap\
 
 
     <figure><img src="../../.gitbook/assets/image (43).png" alt="" width="563"><figcaption></figcaption></figure>
