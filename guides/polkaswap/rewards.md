@@ -8,39 +8,37 @@ description: >-
 
 ### Let's dive into the exciting rewards available 👇
 
-## 🌾 LP farming rewards
+## 🌾 LP rewards
 
-Powered by [**Demeter Farming**](http://polkaswap.io/#/explore/demeter/farming), you can pool various pairs and earn farming rewards on Polkaswap. Additionally, you have the ability to allocate your available liquidity to numerous pairs simultaneously. This opens up the opportunity to farm multiple pairs at the same time. **\*Not financial advice.** **Always DYOR!**
+Powered by [**Demeter Farming**](http://polkaswap.io/#/explore/demeter/farming), you can pool various pairs and earn LP rewards. [**Available Pools.**](https://polkaswap.io/#/explore/pools/)\
+\
+Additionally, you can allocate your available liquidity to numerous pairs simultaneously. This opens up the opportunity to farm multiple pairs at the same time.
+
+**\*Not financial advice. Always DYOR**
+
+## 🧑‍🌾 Staking rewards
+
+**Besides pooling, you can stake assets and earn rewards via single-sided liquidity provision.** New assets for staking are constantly added. [**Available assets for staking and their AP**](https://polkaswap.io/#/explore/demeter/staking)
 
 ## 💧LP fees
 
-Providing liquidity on [**Polkaswap**](http://polkaswap.io/), you earn $PSWAP rewards. As liquidity providers, you receive 0.3% of each swap in fees. The more users trade, the more liquidity LPs earn.
+What’s more, as an LP, **you earn additional fees of 0.3%** of each swap on **Polkaswap.io**. The more users trade, the more liquidity LPs earn.
 
 ## 🌝 LP strategic bonus rewards
 
-Polkaswap users can earn extra $PSWAP tokens for providing liquidity to ANY pool on Polkaswap.io.
+Polkaswap users can **earn extra $PSWAP** tokens for **providing liquidity to ANY pool on Polkaswap.io.**
 
-**And in case you contribute to the XOR-VAL, XOR-PSWAP, XOR-XST, XOR-DAI, or XOR-ETH pools, your reward is doubled! ⬆️** (Check out polkaswap.io/#/explore/pools)
+**For XOR-VAL, XOR-PSWAP, XOR-XST, XOR-DAI, and XOR-ETH pools**, your rewards are doubled!
 
 ## 💫 Rewards for buying from the TBC
 
-**Token Bonding Curve (TBC)** is a smart contract that automates token issuance, sale, and purchase based on mathematical functions. Your **$PSWAP rewards from the TBC are exponentially calculated** based on current reserves.
+**Token Bonding Curve (TBC)** is a smart contract that automates token issuance, sale, and purchase based on mathematical functions.
+
+Your $PSWAP rewards from the TBC **are exponentially calculated based on current reserves.**
 
 ## 🌐 Referral program rewards
 
 Invite friends to join Polkaswap.io and earn a **generous 10% share from their transaction fees** 💌 [**Get started**](https://polkaswap.io/#/referral) **|** [**Watch the tutorial**](https://www.youtube.com/watch?v=bXGljxAQyGI\&ab\_channel=Polkaswap)
-
-## 🧑‍🌾 Demeter staking rewards
-
-**Besides LP, you can contribute single-sided staking on polkaswap.io/#/staking.** New assets for staking are constantly added. You can check out all the available pools for staking [here](http://polkaswap.io/#/explore/demeter/staking). \
-\
-\*Demeter farming is [directly integrated](https://polkaswap.io/#/staking/demeter/) into Polkaswap, for convenience. For more information, read this [Medium article on the Demeter platform.](https://medium.com/sora-xor/ceres-releases-demeter-farming-platform-on-thesora-network-7028aced3bba)
-
-## 🔴 Rewards for staking $XOR natively
-
-**Stake your native $XOR and receive $VAL as rewards.** Currently, native $XOR staking is only [available through polkadot.js](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fws.mof.sora.org#/staking), so you may need some extra time and enthusiasm to familiarize yourself with the process. However, both Fearless Wallet and SORA mobile wallet, along with Polkaswap.io, will eventually offer the option to stake native XOR as well.
-
-
 
 
 
