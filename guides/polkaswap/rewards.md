@@ -8,7 +8,7 @@ description: >-
 
 ### Let's dive into the exciting rewards available 👇
 
-## 🌾 LP rewards
+## LP rewards
 
 Powered by [**Demeter Farming**](http://polkaswap.io/#/explore/demeter/farming), you can pool various pairs and earn LP rewards. [**Available Pools.**](https://polkaswap.io/#/explore/pools/)\
 \
@@ -16,27 +16,27 @@ Additionally, you can allocate your available liquidity to numerous pairs simult
 
 **\*Not financial advice. Always DYOR**
 
-## 🧑‍🌾 Staking rewards
+## Staking rewards
 
 **Besides pooling, you can stake assets and earn rewards via single-sided liquidity provision.** New assets for staking are constantly added. [**Available assets for staking and their AP**](https://polkaswap.io/#/explore/demeter/staking)
 
-## 💧LP fees
+## LP fees
 
 What’s more, as an LP, **you earn additional fees of 0.3%** of each swap on **Polkaswap.io**. The more users trade, the more liquidity LPs earn.
 
-## 🌝 LP strategic bonus rewards
+## LP strategic bonus rewards
 
 Polkaswap users can **earn extra $PSWAP** tokens for **providing liquidity to ANY pool on Polkaswap.io.**
 
 **For XOR-VAL, XOR-PSWAP, XOR-XST, XOR-DAI, and XOR-ETH pools**, your rewards are doubled!
 
-## 💫 Rewards for buying from the TBC
+## Rewards for buying from the TBC
 
 **Token Bonding Curve (TBC)** is a smart contract that automates token issuance, sale, and purchase based on mathematical functions.
 
 Your $PSWAP rewards from the TBC **are exponentially calculated based on current reserves.**
 
-## 🌐 Referral program rewards
+## Referral program rewards
 
 Invite friends to join Polkaswap.io and earn a **generous 10% share from their transaction fees** 💌 [**Get started**](https://polkaswap.io/#/referral) **|** [**Watch the tutorial**](https://www.youtube.com/watch?v=bXGljxAQyGI\&ab\_channel=Polkaswap)
 
