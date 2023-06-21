@@ -26,16 +26,7 @@ If you're interested in launching a project on the SORA network, you can apply f
 
 ![](../.gitbook/assets/1\_TrIq1b1d9bOe9Y4sUhPnnQ.jpeg)
 
-*   [UMI Digital](https://umi.digital/) — A decentralized art project focusing on the development of non-fungible tokens and their applications in art and finance. Umi Digital is built on the SORA (XOR) and Ethereum (ETH) blockchains. [More info here](https://umi.digital/wp-content/uploads/2021/07/Litepaper-1-2.pdf).\
 
-
-    Website: [https://umi.digital/](https://umi.digital/)
-
-    Telegram Group: [https://t.me/umidigital](https://t.me/umidigital)
-
-    Telegram Channel: [https://t.me/digitalumi](https://t.me/digitalumi)
-
-![](../.gitbook/assets/1\_j68yEdU7G4EqusdCeklgyw.png)
 
 
 
