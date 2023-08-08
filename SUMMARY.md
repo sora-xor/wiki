@@ -39,6 +39,7 @@
 
 ## Guides
 
+* [How to sign up for SORA Card](guides/how-to-sign-up-for-sora-card.md)
 * [Account creation](guides/accounts-in-sora.md)
 * [Assets](guides/assets/README.md)
   * [Transfer](guides/assets/transfers-in-sora.md)

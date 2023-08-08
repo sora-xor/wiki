@@ -4,7 +4,7 @@
 
 
 
-<figure><img src="https://sora.org/pub/sora_integrated_plan_v20_public_apr_21.png" alt="" width="563"><figcaption><p><a href="http://localhost:5000/s/-MiaqvxVtQSUrWb72Fsv/crowdloans/walkthrough">The SORA Integrated Plan</a></p></figcaption></figure>
+<figure><img src="https://sora.org/pub/sora_integrated_plan_v20_public_apr_21.png" alt="" width="563"><figcaption><p><a href="http://127.0.0.1:5000/s/-MiaqvxVtQSUrWb72Fsv/crowdloans/walkthrough">The SORA Integrated Plan</a></p></figcaption></figure>
 
 The SORA integrated plan is separated into: **Business**, **Backend**, **Web**, and **Mobile/Other** tracks.
 
