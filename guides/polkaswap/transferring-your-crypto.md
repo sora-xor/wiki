@@ -1,4 +1,10 @@
-# Send & Receive
+---
+description: >-
+  This is a step-by-step guide for transferring assets on the SORA network
+  between different addresses
+---
+
+# Transferring your Crypto
 
 ## Send crypto
 

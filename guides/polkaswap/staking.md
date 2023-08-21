@@ -1,3 +1,9 @@
+---
+description: >-
+  This is a step-by-step walkthough that will help you stake your crypto on the
+  SORA network using Polkaswap
+---
+
 # Staking
 
 1.  Navigate to the ["Staking" page](https://polkaswap.io/#/staking/demeter/) on Polkaswap\

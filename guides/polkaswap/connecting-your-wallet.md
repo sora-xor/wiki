@@ -1,4 +1,10 @@
-# Connect Wallet
+---
+description: >-
+  This is a step-by-step tutorial on how to connect the wallet with your SORA
+  account to the Polkaswap exchange
+---
+
+# Connecting your Wallet
 
 
 
